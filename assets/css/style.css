@@ -1,14 +1,14 @@
 @font-face {
     font-family: IranYekanXFaNum-Regular;
-    src: url('../font/IRANYekanXFaNum-Regular.woff');
-    src: url('../font/IRANYekanXFaNum-Regular.woff2');
-    src: url('../font/IRANYekanXFaNum-Regular.woff2');
+    src: url('../font/IRANYekanFaNum-Regular.woff');
+    src: url('../font/IRANYekanFaNum-Regular.woff2');
+    src: url('../font/IRANYekanFaNum-Regular.woff2');
 }
 @font-face {
     font-family: IranYekanXFaNum-Bold;
-    src: url('../font/IRANYekanXFaNum-Bold.woff');
-    src: url('../font/IRANYekanXFaNum-Bold.woff2');
-    src: url('../font/IRANYekanXFaNum-Bold.woff2');
+    src: url('../font/IRANYekanFaNum-Bold.woff');
+    src: url('../font/IRANYekanFaNum-Bold.woff2');
+    src: url('../font/IRANYekanFaNum-Bold.woff2');
 }
 
 /* Reset Styles */
