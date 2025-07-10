@@ -1,13 +1,13 @@
 @font-face {
-    font-family: IranYekanXFaNum-Regular;
+    font-family: IranYekanFaNum-Regular;
+    src: url('../font/IRANYekanFaNum-Regular.ttf');
     src: url('../font/IRANYekanFaNum-Regular.woff');
-    src: url('../font/IRANYekanFaNum-Regular.woff2');
     src: url('../font/IRANYekanFaNum-Regular.woff2');
 }
 @font-face {
-    font-family: IranYekanXFaNum-Bold;
+    font-family: IranYekanFaNum-Bold;
+    src: url('../font/IRANYekanFaNum-Bold.ttf');
     src: url('../font/IRANYekanFaNum-Bold.woff');
-    src: url('../font/IRANYekanFaNum-Bold.woff2');
     src: url('../font/IRANYekanFaNum-Bold.woff2');
 }
 
@@ -20,7 +20,7 @@
 
 
 body {
-    font-family: IranYekanXFaNum-Regular;
+    font-family: IranYekanFaNum-Regular;
     background-color: #f9f9f9;
     color: #333333;
 }
